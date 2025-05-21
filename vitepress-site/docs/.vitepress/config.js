@@ -95,5 +95,6 @@ export default {
     }
   },
   appearance: true,
-  lastUpdated: true
+  lastUpdated: true,
+  ignoreDeadLinks: true
 } 
