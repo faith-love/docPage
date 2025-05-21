@@ -97,5 +97,8 @@ export default {
   },
   appearance: true,
   lastUpdated: true,
-  ignoreDeadLinks: true
+  ignoreDeadLinks: true,
+  head: [
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap' }]
+  ]
 } 
