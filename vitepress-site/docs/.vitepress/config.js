@@ -1,5 +1,6 @@
 export default {
   title: "技术文档中心",
+  base: '/docPage/',
   description: "由 Vite 和 Vue 驱动的静态站点生成器",
   themeConfig: {
     logo: '/logo.png',
